@@ -1,5 +1,5 @@
 # easy-classlist
-[![Build Status](https://secure.travis-ci.org/calledt/easy-classlist.png?branch=master)](http://travis-ci.org/calledt/easy-classlist)
+[![Build Status](https://secure.travis-ci.org/calledT/easy-classlist.png?branch=master)](http://travis-ci.org/calledT/easy-classlist)
 
 Cross-browser element class manipulation
 
