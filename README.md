@@ -15,8 +15,8 @@ npm install easy-classlist
 var classList = require('easy-classlist');
 var elem = document.getElementById('elem');
 
-classList.add('bar').remove('bar').toggle('bar');
-classList.contains('bar');
+classList(elem).add('bar').remove('bar').toggle('bar');
+classList(elem).contains('bar');
 ```
 
 ## License
